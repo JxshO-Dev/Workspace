@@ -4,7 +4,7 @@
 
 ### A clean, lightweight, and modern Markdown note-taking application.
 
-<img src="assets/workspace-preview.png" alt="Workspace Preview" width="100%">
+<img src="https://images.guns.lol/a67690a57b1298218a8bc834edbb5f30b77695b8/Swl7Fs.png" alt="Workspace Preview" width="100%">
 
 <br>
 
@@ -23,9 +23,9 @@
 
 ### Simple. Fast. Focused.
 
-Workspace is a lightweight note-taking application built for users who want a distraction-free writing experience with live Markdown rendering.
+Workspace is a lightweight, modern note-taking application designed around a distraction-free writing experience with live Markdown rendering.
 
-Designed around simplicity and performance, Workspace allows you to organize notes locally while instantly previewing Markdown formatting in real time.
+Whether you're writing documentation, keeping personal notes, or drafting ideas, Workspace provides a clean interface that keeps your focus on writing while rendering Markdown in real time.
 
 ## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -33,32 +33,32 @@ Designed around simplicity and performance, Workspace allows you to organize not
 
 # Features
 
-- Create, edit, and delete notes
-- Live Markdown preview
-- Local storage support
+- Live Markdown editor
+- Real-time Markdown preview
+- Local note storage
 - Fast note searching
-- Tag support
-- Dark user interface
-- Lightweight and responsive
-- Automatic note persistence
+- Note tagging
 - Split editor and preview layout
-- Clean, modern design
+- Automatic saving
+- Modern dark interface
+- Lightweight and responsive
+- Clean, minimal workspace
 
 ---
 
 # Preview
 
-Replace the image below with your own screenshot.
+<div align="center">
 
-```md
-![Workspace Screenshot](image.png)
-```
+<img src="https://images.guns.lol/a67690a57b1298218a8bc834edbb5f30b77695b8/Swl7Fs.png" alt="Workspace Screenshot">
+
+</div>
 
 ---
 
 # Markdown Support
 
-Workspace supports common Markdown syntax.
+Workspace supports the most commonly used Markdown syntax.
 
 | Element | Syntax |
 |---------|--------|
@@ -68,10 +68,10 @@ Workspace supports common Markdown syntax.
 | Italic | `*Italic*` |
 | Underline | `_Underline_` |
 | Strikethrough | `~~Strike~~` |
-| Lists | `- Item` |
+| Bullet Lists | `- Item` |
 | Numbered Lists | `1. Item` |
-| Code Blocks | ```` ``` ```` |
 | Inline Code | `` `code` `` |
+| Code Blocks | ```` ``` ```` |
 | Links | `[Title](URL)` |
 | Images | `![Alt](image.png)` |
 | Block Quotes | `> Quote` |
@@ -80,9 +80,9 @@ Workspace supports common Markdown syntax.
 
 # Application Layout
 
-```
+```text
 ┌──────────────────────────────────────────────────────────────┐
-│ Sidebar │ Markdown Editor │ Live Preview                    │
+│ Sidebar │ Markdown Editor │ Live Markdown Preview           │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -91,19 +91,19 @@ Workspace supports common Markdown syntax.
 - Browse saved notes
 - Search notes
 - Create new notes
-- Access local storage
+- Local storage management
 
 ### Editor
 
-- Markdown editing
-- Real-time updates
-- Distraction-free writing
+- Write using Markdown
+- Instant editing
+- Distraction-free workspace
 
 ### Preview
 
 - Live rendered Markdown
-- Instant formatting
-- Accurate preview
+- Accurate formatting
+- Side-by-side editing experience
 
 ---
 
@@ -121,7 +121,7 @@ Navigate into the project.
 cd Workspace
 ```
 
-Install dependencies.
+Install the required dependencies.
 
 ```bash
 npm install
@@ -135,57 +135,45 @@ npm start
 
 ---
 
-# Project Structure
+# Repository
 
-```text
-Workspace/
-│
-├── assets/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── styles/
-│   └── utils/
-│
-├── package.json
-├── README.md
-└── LICENSE
-```
+GitHub Repository:
 
-> Update this section if your project structure differs.
+**https://github.com/JxshO-Dev/Workspace**
 
 ---
 
 # Storage
 
-Workspace stores notes locally on the user's device.
+Workspace stores notes locally on your device.
 
-No cloud account or online synchronization is required, allowing the application to remain fast, private, and fully available offline.
+No cloud services or external databases are required, ensuring your notes remain private, fast to access, and available offline.
 
 ---
 
-# Design Philosophy
+# Design Principles
 
-Workspace is built around a few core principles:
+Workspace was built around a few simple principles.
 
-- Simplicity
-- Performance
-- Readability
+- Clean interface
 - Minimal distractions
-- Instant Markdown rendering
+- Fast performance
 - Local-first storage
+- Real-time Markdown rendering
+- Simple note organization
 
 ---
 
-# Roadmap
+# Planned Features
 
 - [ ] Folder organization
-- [ ] Import and export notes
+- [ ] Import notes
+- [ ] Export notes
 - [ ] Custom themes
 - [ ] Keyboard shortcuts
 - [ ] Extended Markdown support
-- [ ] Auto-save improvements
 - [ ] File attachments
+- [ ] Enhanced search
 
 ---
 
@@ -205,7 +193,7 @@ Contributions are welcome.
 
 This project is licensed under the **MIT License**.
 
-See the `LICENSE` file for more information.
+See the `LICENSE` file for additional information.
 
 ---
 
@@ -213,9 +201,11 @@ See the `LICENSE` file for more information.
 
 ## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Workspace**
+### Workspace
 
-A lightweight Markdown workspace designed for writing without distractions.
+A lightweight Markdown workspace built for focused writing.
+
+**Repository:** https://github.com/JxshO-Dev/Workspace
 
 ## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
