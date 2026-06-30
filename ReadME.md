@@ -4,7 +4,6 @@
 
 ### A clean, lightweight, and modern Markdown note-taking application.
 
-<img src="https://images.guns.lol/a67690a57b1298218a8bc834edbb5f30b77695b8/Swl7Fs.png" alt="Workspace Preview" width="100%">
 
 <br>
 
