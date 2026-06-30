@@ -51,7 +51,7 @@ Designed around simplicity and performance, Workspace allows you to organize not
 Replace the image below with your own screenshot.
 
 ```md
-![Workspace Screenshot](assets/workspace-preview.png)
+![Workspace Screenshot](image.png)
 ```
 
 ---
